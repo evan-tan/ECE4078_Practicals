@@ -13,6 +13,3 @@ This is the official repository for the practical sessions of unit ECE4078 (Inte
 - You will gain one point for each correct Flux question answered during the lectures. The maximum number of Flux points per week is 4pts.
 - The remaining points are distributed among the programming exercises to complete for that week.
 - All programming exercises will be graded automatically. Please make sure to not change the names of the functions you are asked to complete. Verify that each function returns the expected value type and format.
-
-## Running Jupyter Lab
-Make sure to change ```%matplotlib notebook``` to ```%matplotlib widget```
